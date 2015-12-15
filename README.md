@@ -1,1 +1,1 @@
-# ELK
+# ELK (Elasticsearch + Logstash + Kibana)
